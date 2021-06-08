@@ -1,9 +1,10 @@
 ### Hi there, I'm Nikita 👋 
 
+
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
 
-🌱 I am currently studying machine learning and data analysis.
+ • 🌱 I am currently studying machine learning and data analysis.
 
 <!--
 **Non1ce/Non1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
