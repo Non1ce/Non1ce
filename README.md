@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Nikita 👋
 
 <!--
 **Non1ce/Non1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi, I'm Nikita, a dedicated self-taught Data Scientist from Moscow.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
