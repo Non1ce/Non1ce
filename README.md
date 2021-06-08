@@ -5,7 +5,7 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
  • 🔭 I’m currently working on
  • 🌱 I am currently studying machine learning and data analysis.
-#[crux-ports Installation](https://github.com/Non1ce/Neural-Network-Model#installation)
+[Binary text classification](https://github.com/Non1ce/Neural-Network-Model)
 <!--
 **Non1ce/Non1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
