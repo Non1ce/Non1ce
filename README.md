@@ -12,7 +12,6 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
  •  💬  How to reach me: [Nik](mailto:nik.elenberger@list.ru)
  
 ![Non1ce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&theme=great-gatsby)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,html)
 
 
