@@ -13,6 +13,7 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&layout=compact)]
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&langs_count=8)]
 
 
 <!--
