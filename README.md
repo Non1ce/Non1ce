@@ -1,4 +1,4 @@
-### Hi there, I'm Nikita 👋 
+### Hi there, I'm Nikita 👋
 
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
