@@ -3,13 +3,13 @@
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
- •  🔭 :grey_question:  I’m currently working on [Binary text classification](https://github.com/Non1ce/Neural-Network-Model#readme)
+ •  :grey_question:  I’m currently working on [Binary text classification](https://github.com/Non1ce/Neural-Network-Model#readme)
 
  
- •  🌱  I am currently studying machine learning and data analysis.
+ •  :books:  I am currently studying machine learning and data analysis.
  
  
- •  💬  How to reach me: [Nik](mailto:nik.elenberger@list.ru)
+ • :speech_balloon:  How to reach me: [Nik](mailto:nik.elenberger@list.ru)
  
 ![Non1ce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,html&theme=great-gatsby)
