@@ -3,7 +3,7 @@
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
- •  🔭  I’m currently working on [Binary text classification](https://github.com/Non1ce/Neural-Network-Model#readme)
+ •  🔭 :grey_question:  I’m currently working on [Binary text classification](https://github.com/Non1ce/Neural-Network-Model#readme)
 
  
  •  🌱  I am currently studying machine learning and data analysis.
