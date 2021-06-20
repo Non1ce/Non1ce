@@ -1,7 +1,4 @@
 
-<html xmlns="https://github.com/Non1ce/Image/blob/image/Resume_v1.pdf">
-<head>
-</head>
 <body>
 <div title="Нажмите на меня, для обзора файла"><a href="">
 <p align="center">
@@ -9,7 +6,7 @@
 </p> 
 </div>
 </body>
-</html>
+
 
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
