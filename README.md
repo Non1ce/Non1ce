@@ -1,19 +1,17 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="https://github.com">
 <head>
 </head>
 <body>
 <div title="Нажмите на меня, для обзора файла"><a href="Stiv_Dzhobs.pdf">
+<p align="center">
 <img src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png"/></a>
+</p> 
 </div>
 </body>
 </html>
 
 
-<p align="center">
-  <img src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png">
-</p>
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
