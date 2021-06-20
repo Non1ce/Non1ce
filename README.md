@@ -10,7 +10,6 @@
 </div>
 </body>
 </html>
-<a href="http://сайт.ру/file.pdf">открыть файл</a>
 
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
