@@ -1,5 +1,11 @@
 ### Hi there, I'm Nikita 👋
 
+<p align="center">
+  <img  src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png">
+</p>
+
+
+
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
