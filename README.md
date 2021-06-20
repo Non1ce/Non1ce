@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<div title="Нажмите на меня, для обзора файла"><a href="Stiv_Dzhobs.pdf"></a>
+<div title="Нажмите на меня, для обзора файла"><a href="https://github.com/Non1ce/Image/blob/image/Resume_v1.pdf"></a>
 <p align="center">
 <img src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png"/></a>
 </p> 
