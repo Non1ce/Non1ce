@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikita 👋
 
 <p align="center">
-  <img width="1392.87" height="346" src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png">
+  <img width="1297" height="322.18" src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png">
 </p>
 
 
