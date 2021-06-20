@@ -1,12 +1,12 @@
-
+### Hi there, I'm Nikita 👋
 
 <p align="center">
-  <img  src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png">
+  <img width="959" height="238" src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png">
 </p>
 
 
 
-width="407" height="298"
+
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
    • :page_with_curl:   I’m currently working on [Binary text classification](https://github.com/Non1ce/Neural-Network-Model#readme)
