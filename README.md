@@ -3,14 +3,14 @@
 <head>
 </head>
 <body>
-<div title="Нажмите на меня, для обзора файла"><a href="Stiv_Dzhobs.pdf">
+<div title="Нажмите на меня, для обзора файла"><a href="Stiv_Dzhobs.pdf"></a>
 <p align="center">
 <img src="https://github.com/Non1ce/Image/blob/image/Readme/Title.png"/></a>
 </p> 
 </div>
 </body>
 </html>
-
+<a href="http://сайт.ру/file.pdf">открыть файл</a>
 
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
