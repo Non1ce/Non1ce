@@ -2,7 +2,7 @@
 <body>
 <div title="Нажмите на меня, для обзора файла"><a href="">
 <p align="center">
-<img src="https://github.com/Non1ce/Image/blob/no_nice/Readme/Title.png"/></a>
+<img src="https://github.com/Non1ce/Image_Readme/blob/no_nice/Readme/Title.png"/></a>
 </p> 
 </div>
 </body>
