@@ -7,7 +7,7 @@
 </div>
 </body>
 
-### 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 
+## 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
@@ -19,7 +19,7 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
  
    • :speech_balloon:   How to reach me: [Nik](mailto:nik.elenberger@list.ru)
    
-### 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
+## 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
  
 ![Python](https://img.shields.io/badge/-Python-533849?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-533849?style=flat&logo=mysql)
@@ -29,7 +29,7 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 ![Figma](https://img.shields.io/badge/-Figma-533849?style=flat&logo=figma)
 ![Latex](https://img.shields.io/badge/-Latex-533849?style=flat&logo=latex)
 
-### 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋
+## 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋
 
 <p align="center"> 
    
