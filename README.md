@@ -19,9 +19,11 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
  
    • :speech_balloon:   How to reach me: [Nik](mailto:nik.elenberger@list.ru)
  
-![Non1ce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,html&theme=dracula)
-
+### Information about my GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&theme=dracula&hide=contribs,prs,stars" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,html&theme=dracula" height="150px" />
+</p>
 
 <!--
 **Non1ce/Non1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
