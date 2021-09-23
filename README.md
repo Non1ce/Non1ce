@@ -21,8 +21,8 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
  
 ### Information about my GitHub
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&theme=dracula&hide=contribs,prs,stars" height="140px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,html&theme=dracula" height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&theme=dracula&hide=contribs,prs" height="145px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,html&theme=dracula" height="145px" />
 </p>
 
 <!--
