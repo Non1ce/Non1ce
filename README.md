@@ -1,12 +1,5 @@
 ![](https://github.com/Non1ce/Image_Non1ce/blob/no_nice/GIF.gif)
 
-<!-- <body>
-<div title="Нажмите на меня, для обзора файла"><a href="">
-<p align="center">
-<img src="https://github.com/Non1ce/Image_Non1ce/blob/no_nice/Title.png"/></a>
-</p> 
-</div>
-</body> -->
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 
 
