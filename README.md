@@ -22,6 +22,7 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 ![GitHub](https://img.shields.io/badge/-GitHub-533849?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-533849?style=flat&logo=figma)
 ![Latex](https://img.shields.io/badge/-Latex-533849?style=flat&logo=latex)
+![Visits Badge](https://badges.pufler.dev/visits/Non1ce/Non1ce?style=flat&logo=appveyor&color=533849) 
 
 ## 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋
 
@@ -31,21 +32,3 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,css,html&theme=dracula" height="145px" width="425px" />
    
 </p>
-
-
-
-
-<!--
-**Non1ce/Non1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I am currently studying machine learning and data analysis.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 How to reach me: ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
