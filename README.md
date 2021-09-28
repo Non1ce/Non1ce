@@ -13,6 +13,8 @@ I am a self-motivated self-taught Data Scientist from Moscow. ⚡
  
    • :speech_balloon:   How to reach me: [Nik](mailto:nik.elenberger@list.ru)
    
+How do I make the same GIF in my profile? Then you are here => [Intro to GIF](https://github.com/Non1ce/Intro_to_GIF)
+
 ## 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
  
 ![Python](https://img.shields.io/badge/-Python-533849?style=flat&logo=Python)
