@@ -1,4 +1,4 @@
-![](https://github.com/Non1ce/Image_Non1ce/blob/no_nice/GIF.gif)
+[![](https://github.com/Non1ce/Image_Non1ce/blob/no_nice/GIF.gif)](https://github.com/Non1ce/Intro_to_GIF)
 
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 
