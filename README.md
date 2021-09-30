@@ -5,7 +5,7 @@
 
 I am a self-motivated self-taught Data Scientist from Moscow. ⚡
 
-   • 👨‍💻 I’m currently working on Сonversational chat bot
+   • 👨‍💻 I’m currently working on [Сonversational chat bot](https://github.com/Non1ce/Russian-conversational-chat_bot)
 
  
    • 📔 I am currently studying machine learning and data analysis.
