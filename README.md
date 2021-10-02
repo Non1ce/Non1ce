@@ -20,7 +20,7 @@ How do I make the same GIF in my profile? Then you are here => [Intro to GIF](ht
 ![Python](https://img.shields.io/badge/-Python-533849?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-533849?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-533849?style=flat&logo=git)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-533849?style=flat&logo=google-colab)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-533849?style=flat&logo=google-colab)\
 ![GitHub](https://img.shields.io/badge/-GitHub-533849?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-533849?style=flat&logo=figma)
 ![Latex](https://img.shields.io/badge/-Latex-533849?style=flat&logo=latex)
