@@ -30,7 +30,7 @@ How do I make the same GIF in my profile? Then you are here => [Intro to GIF](ht
 
 <p align="center"> 
    
-  <img src="https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&hide=issues&theme=dracula" height="145px" width="425px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,css,html,Jupyter Notebook&theme=dracula" height="145px" width="425px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&hide=issues&theme=dracula" height="145px" width="420px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,css,html,Jupyter Notebook&theme=dracula" height="145px" width="420px" />
    
 </p>
