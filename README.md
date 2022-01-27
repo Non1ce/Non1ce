@@ -17,6 +17,8 @@ How do I make the same GIF in my profile? Then you are here => [Intro to GIF](ht
  
 * ![Python](https://img.shields.io/badge/-Python-533849?style=flat&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-533849?style=flat&logo=git)
+![HTML](https://img.shields.io/badge/-HTML-533849?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-533849?style=flat&logo=css3)
 ![Markdown](https://img.shields.io/badge/-Markdown-533849?style=flat&logo=markdown)
 ![Latex](https://img.shields.io/badge/-Latex-533849?style=flat&logo=latex)
 
