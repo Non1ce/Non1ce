@@ -31,14 +31,14 @@ How do I make the same GIF in my profile? Then you are here => [Intro to GIF](ht
 ![GitHub](https://img.shields.io/badge/-GitHub-533849?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-533849?style=flat&logo=figma)
 
-## 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋
+<!-- ## 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 -->
 
-<p align="center"> 
+<!-- <p align="center">  -->
    
-  <img src="https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&hide=issues&theme=dracula" height="140px" width="420px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,css,html,Jupyter Notebook&theme=dracula" height="140px" width="420px" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Non1ce&show_icons=true&hide=issues&theme=dracula" height="140px" width="420px" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Non1ce&hide=javascript,css,html,Jupyter Notebook&theme=dracula" height="140px" width="420px" /> -->
    
-</p>
+<!-- </p> -->
 
 ## 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 𝚊𝚗𝚍 𝙵𝚎𝚎𝚍𝙱𝚊𝚌𝚔
 ![Visits Badge](https://badges.pufler.dev/visits/Non1ce/Non1ce?style=flat&logo=appveyor&color=533849) 
