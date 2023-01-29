@@ -24,7 +24,7 @@ How do I make the same GIF in my profile? Then you are here => [Intro to GIF](ht
 ![Latex](https://img.shields.io/badge/-Latex-533849?style=flat&logo=latex)
 
 * ![Oracle](https://img.shields.io/badge/-Oracle-533849?style=flat&logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-533849?style=flat&logo=mysql)
+![Microsoft Sql Server](https://img.shields.io/badge/-SQLServer-533849?style=flat&logo=microsoftsqlserver)
 
 * ![PyCharm](https://img.shields.io/badge/-PyCharm-533849?style=flat&logo=pycharm)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-533849?style=flat&logo=google-colab)
