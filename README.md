@@ -41,5 +41,5 @@ How do I make the same GIF in my profile? Then you are here => [Intro to GIF](ht
 <!-- </p> -->
 
 ## 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 𝚊𝚗𝚍 𝙵𝚎𝚎𝚍𝙱𝚊𝚌𝚔
-![Visits Badge](https://badges.pufler.dev/visits/Non1ce/Non1ce?style=flat&logo=appveyor&color=533849) 
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/Non1ce/Non1ce?style=flat&logo=appveyor&color=533849)  -->
 [![Ask me](https://img.shields.io/badge/Ask%20me-anything-533849?style=flat&1abc9c.svg)](mailto:nik.elenberger@list.ru)
