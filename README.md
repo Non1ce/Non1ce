@@ -3,15 +3,7 @@
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 
 
-I am a self-motivated self-taught Data Scientist from Moscow. ⚡
-
-   • 👨‍💻 I’m currently working on [Сonversational chat bot](https://github.com/Non1ce/Russian-conversational-chat_bot)
-
- 
-   • 📔 I am currently studying machine learning and data analysis
-   
-   
-How do I make the same GIF in my profile? Then you are here => [Intro to GIF](https://github.com/Non1ce/Intro_to_GIF)
+I am a self-motivated Data Scientist from Moscow, I am engaged in trading ⚡
 
 ## 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜
  
